@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|e:\\fpt courses\\.net projects\\prn221pe_fa22_trialtest_lekienluong\\candidatemanagement_wpf\\candidateprofilemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|solutionrelative:candidatemanagement_wpf\\candidateprofilemanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964DC5FA-15B4-4A70-BBED-2F66F1E96988}|Candidate_DAO\\Candidate_DAO.csproj|e:\\fpt courses\\.net projects\\prn221pe_fa22_trialtest_lekienluong\\candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964DC5FA-15B4-4A70-BBED-2F66F1E96988}|Candidate_DAO\\Candidate_DAO.csproj|solutionrelative:candidate_dao\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{829ACA1F-3D4C-4EDF-B4F8-A79199E5B167}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|e:\\fpt courses\\.net projects\\prn221pe_fa22_trialtest_lekienluong\\candidate_businessobjects\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{829ACA1F-3D4C-4EDF-B4F8-A79199E5B167}|Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj|solutionrelative:candidate_businessobjects\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|e:\\fpt courses\\.net projects\\prn221pe_fa22_trialtest_lekienluong\\candidatemanagement_wpf\\candidateprofilemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|solutionrelative:candidatemanagement_wpf\\candidateprofilemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|e:\\fpt courses\\.net projects\\prn221pe_fa22_trialtest_lekienluong\\candidatemanagement_wpf\\jobpostingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|solutionrelative:candidatemanagement_wpf\\jobpostingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|e:\\fpt courses\\.net projects\\prn221pe_fa22_trialtest_lekienluong\\candidatemanagement_wpf\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}|CandidateManagement_WPF\\CandidateManagement_WPF.csproj|solutionrelative:candidatemanagement_wpf\\jobpostingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\Candidate_BusinessObjects\\JobPosting.cs",
+              "RelativeDocumentMoniker": "Candidate_BusinessObjects\\JobPosting.cs",
+              "ToolTip": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\Candidate_BusinessObjects\\JobPosting.cs",
+              "RelativeToolTip": "Candidate_BusinessObjects\\JobPosting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:33:30.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateProfileManagement.xaml",
+              "DocumentMoniker": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\CandidateProfileManagement.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF\\CandidateProfileManagement.xaml",
+              "ToolTip": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\CandidateProfileManagement.xaml",
+              "RelativeToolTip": "CandidateManagement_WPF\\CandidateProfileManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T15:10:59.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateProfileManagement.xaml.cs",
+              "DocumentMoniker": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\CandidateProfileManagement.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF\\CandidateProfileManagement.xaml.cs",
+              "ToolTip": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\CandidateProfileManagement.xaml.cs",
+              "RelativeToolTip": "CandidateManagement_WPF\\CandidateProfileManagement.xaml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAUwGoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:02:10.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateProfileDAO.cs",
+              "DocumentMoniker": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAO\\CandidateProfileDAO.cs",
+              "ToolTip": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\Candidate_DAO\\CandidateProfileDAO.cs",
+              "RelativeToolTip": "Candidate_DAO\\CandidateProfileDAO.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:33:56.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobPostingWindow.xaml",
+              "DocumentMoniker": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\JobPostingWindow.xaml",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF\\JobPostingWindow.xaml",
+              "ToolTip": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\JobPostingWindow.xaml",
+              "RelativeToolTip": "CandidateManagement_WPF\\JobPostingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T15:56:16.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPostingWindow.xaml.cs",
+              "DocumentMoniker": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\JobPostingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_WPF\\JobPostingWindow.xaml.cs",
+              "ToolTip": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagement_WPF\\JobPostingWindow.xaml.cs",
+              "RelativeToolTip": "CandidateManagement_WPF\\JobPostingWindow.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwD8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:12:59.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
