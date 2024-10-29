@@ -1,0 +1,152 @@
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagementContext.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.exe
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.deps.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.runtimeconfig.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_BusinessObjects.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_DAO.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Repository.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Service.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_BusinessObjects.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Service.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_DAO.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Repository.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateProfileManagement.g.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\JobPostingWindow.g.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF_MarkupCompile.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF_MarkupCompile.lref
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateProfileManagement.baml
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\JobPostingWindow.baml
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.g.resources
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\Candidat.8DAB7628.Up2Date
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\refint\CandidateManagement_WPF.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\ref\CandidateManagement_WPF.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\appsettings.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagementContext.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\appsettings.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.exe
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.deps.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.runtimeconfig.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\CandidateManagement_WPF.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_BusinessObjects.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_DAO.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Repository.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Service.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_BusinessObjects.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Service.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_DAO.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\bin\Debug\net6.0-windows\Candidate_Repository.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.csproj.AssemblyReference.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateProfileManagement.g.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\JobPostingWindow.g.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\App.g.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF_MarkupCompile.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF_MarkupCompile.lref
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateProfileManagement.baml
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\JobPostingWindow.baml
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\MainWindow.baml
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.g.resources
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.AssemblyInfoInputs.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.AssemblyInfo.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.csproj.CoreCompileInputs.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\Candidat.8DAB7628.Up2Date
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\refint\CandidateManagement_WPF.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.genruntimeconfig.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\ref\CandidateManagement_WPF.dll
