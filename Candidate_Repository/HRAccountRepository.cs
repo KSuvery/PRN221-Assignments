@@ -15,5 +15,9 @@ namespace Candidate_Repository
         public List<Hraccount> GetHraccounts() => HRAccountDAO.Instance.GetHraccounts();
         
         public void AddHraccount(Hraccount hraccount) => HRAccountDAO.Instance.AddHraccount(hraccount);
+        
+        public bool isAdmin(Hraccount hraccount) => HRAccountDAO.Instance.isAdmin(hraccount);
+
+        public bool isStaff(Hraccount hraccount) => HRAccountDAO.Instance.isStaff(hraccount);
     }
 }

@@ -34,3 +34,4 @@ E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_DAO\o
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.pdb
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.genruntimeconfig.cache
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_DAO\obj\Debug\net6.0\ref\Candidate_DAO.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_DAO\obj\Debug\net6.0\Candidate_DAO.sourcelink.json

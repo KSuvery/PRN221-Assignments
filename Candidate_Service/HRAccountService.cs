@@ -31,5 +31,15 @@ namespace Candidate_Service
         {
             accountRepository.AddHraccount(hraccount);
         }
+
+        public bool isAdmin(Hraccount hraccount)
+        {
+            return accountRepository.isAdmin(hraccount);
+        }
+
+        public bool isStaff(Hraccount hraccount)
+        {
+            return accountRepository.isStaff(hraccount);
+        }
     }
 }

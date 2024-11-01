@@ -14,5 +14,9 @@ namespace Candidate_Service
         public List<Hraccount> GetHraccounts();
 
         public void AddHraccount(Hraccount hraccount);
+
+        public bool isAdmin(Hraccount hraccount);
+
+        public bool isStaff(Hraccount hraccount);
     }
 }

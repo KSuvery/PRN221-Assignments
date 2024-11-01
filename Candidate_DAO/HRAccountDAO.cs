@@ -46,5 +46,43 @@ namespace Candidate_DAO
             context.Hraccounts.Add(hraccount);
             context.SaveChanges();
         }
+
+        public bool isAdmin(Hraccount hraccount)
+        {
+            try
+            {
+                if(hraccount.MemberRole == 1)
+                {
+                   return true;
+                }
+                else
+                {
+                   return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
+
+        public bool isStaff(Hraccount hraccount)
+        {
+            try
+            {
+                if (hraccount.MemberRole == 3)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
+        }
     }
 }

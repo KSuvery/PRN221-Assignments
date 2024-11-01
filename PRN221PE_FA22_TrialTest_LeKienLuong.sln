@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candidate_Service", "Candid
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateManagement_WPF", "CandidateManagement_WPF\CandidateManagement_WPF.csproj", "{F32B0D08-0D26-4DF5-BA4B-40DA9CB612C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateManagementAPI", "CandidateManagementAPI\CandidateManagementAPI.csproj", "{22F11A8E-0B2A-4EAA-8BC5-5B25E7F4BB4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateManagementAPI", "CandidateManagementAPI\CandidateManagementAPI.csproj", "{22F11A8E-0B2A-4EAA-8BC5-5B25E7F4BB4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateManagementWebsite", "CandidateManagementWebsite\CandidateManagementWebsite.csproj", "{EE3BAAF6-3935-415A-9FDF-9090C92A6891}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandidateManagementRazorPages", "CandidateManagementWebsite\CandidateManagementRazorPages.csproj", "{EE3BAAF6-3935-415A-9FDF-9090C92A6891}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

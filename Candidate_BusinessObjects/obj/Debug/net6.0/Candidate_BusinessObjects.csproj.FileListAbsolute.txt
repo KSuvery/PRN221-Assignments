@@ -26,3 +26,4 @@ E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Busin
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_BusinessObjects\obj\Debug\net6.0\Candidate_BusinessObjects.pdb
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_BusinessObjects\obj\Debug\net6.0\Candidate_BusinessObjects.genruntimeconfig.cache
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_BusinessObjects\obj\Debug\net6.0\ref\Candidate_BusinessObjects.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_BusinessObjects\obj\Debug\net6.0\Candidate_BusinessObjects.sourcelink.json

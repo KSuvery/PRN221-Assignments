@@ -15,5 +15,9 @@ namespace Candidate_Repository
         public List<Hraccount> GetHraccounts();
 
         public void AddHraccount(Hraccount hraccount);
+
+        public bool isAdmin(Hraccount hraccount);
+
+        public bool isStaff(Hraccount hraccount);
     }
 }

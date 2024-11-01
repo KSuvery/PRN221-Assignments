@@ -29,10 +29,10 @@ namespace Candidate_DAO
                 return instance;
             }
         }
-
+        
         public JobPosting GetJobPostingById(string id)
         {
-            return context.JobPostings.Include(x => x.PostingId.Equals(id)).FirstOrDefault();
+            return context.JobPostings.SingleOrDefault(x => x.PostingId.Equals(id));
         }
 
         public List<JobPosting> GetJobPostings()
