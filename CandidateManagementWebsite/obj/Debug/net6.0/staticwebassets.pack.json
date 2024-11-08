@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CandidateManagementWebsite.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CandidateManagementWebsite.bundle.scp.css"
+      "Id": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CandidateManagementRazorPages.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CandidateManagementRazorPages.bundle.scp.css"
     },
     {
       "Id": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CandidateManagementWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CandidateManagementRazorPages.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CandidateManagementWebsite.props",
-      "PackagePath": "build\\CandidateManagementWebsite.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CandidateManagementRazorPages.props",
+      "PackagePath": "build\\CandidateManagementRazorPages.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CandidateManagementWebsite.props",
-      "PackagePath": "buildMultiTargeting\\CandidateManagementWebsite.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CandidateManagementRazorPages.props",
+      "PackagePath": "buildMultiTargeting\\CandidateManagementRazorPages.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CandidateManagementWebsite.props",
-      "PackagePath": "buildTransitive\\CandidateManagementWebsite.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CandidateManagementRazorPages.props",
+      "PackagePath": "buildTransitive\\CandidateManagementRazorPages.props"
     }
   ],
   "ElementsToRemove": []

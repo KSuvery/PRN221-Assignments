@@ -150,3 +150,4 @@ E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManage
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.pdb
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.genruntimeconfig.cache
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\ref\CandidateManagement_WPF.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagement_WPF\obj\Debug\net6.0-windows\CandidateManagement_WPF.sourcelink.json

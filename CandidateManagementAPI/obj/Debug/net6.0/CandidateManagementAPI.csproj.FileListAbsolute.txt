@@ -1,0 +1,64 @@
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.exe
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.deps.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.runtimeconfig.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.CandidateManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CandidateManagementAPI.props
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CandidateManagementAPI.props
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CandidateManagementAPI.props
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\scopedcss\bundle\CandidateManagementAPI.styles.css
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\Candidat.5BFC52E1.Up2Date
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\refint\CandidateManagementAPI.dll
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.pdb
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.genruntimeconfig.cache
+C:\Users\Admin\source\repos\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\ref\CandidateManagementAPI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\appsettings.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.exe
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.deps.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.runtimeconfig.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\CandidateManagementAPI.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.csproj.AssemblyReference.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.AssemblyInfoInputs.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.AssemblyInfo.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.csproj.CoreCompileInputs.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.CandidateManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.CandidateManagementAPI.props
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CandidateManagementAPI.props
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CandidateManagementAPI.props
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\scopedcss\bundle\CandidateManagementAPI.styles.css
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\Candidat.5BFC52E1.Up2Date
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\refint\CandidateManagementAPI.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.pdb
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\CandidateManagementAPI.genruntimeconfig.cache
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementAPI\obj\Debug\net6.0\ref\CandidateManagementAPI.dll

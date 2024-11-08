@@ -11204,9 +11204,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
-      "projectName": "CandidateManagementWebsite",
-      "projectPath": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\CandidateManagementWebsite.csproj",
+      "projectUniqueName": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\CandidateManagementRazorPages.csproj",
+      "projectName": "CandidateManagementRazorPages",
+      "projectPath": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\CandidateManagementRazorPages.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "E:\\FPT Courses\\.NET Projects\\PRN221PE_FA22_TrialTest_LeKienLuong\\CandidateManagementWebsite\\obj\\",
       "projectStyle": "PackageReference",
