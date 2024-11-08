@@ -27,8 +27,8 @@ namespace Candidate_Service
             return candidateProfileRepository.GetCandidateProfiles();
         }
 
-        public Boolean AddCandidateProfile(CandidateProfile candidate) => candidateProfileRepository.AddCandidateProfile(candidate);
-        public Boolean UpdateCandidateProfile(CandidateProfile candidate) => candidateProfileRepository.UpdateCandidateProfile(candidate);
-        public Boolean DeleteCandidateProfile(CandidateProfile candidate) => candidateProfileRepository.DeleteCandidateProfile(candidate);
+        public void AddCandidateProfile(CandidateProfile candidate) => candidateProfileRepository.AddCandidateProfile(candidate);
+        public void UpdateCandidateProfile(CandidateProfile candidate) => candidateProfileRepository.UpdateCandidateProfile(candidate);
+        public void DeleteCandidateProfile(string id) => candidateProfileRepository.DeleteCandidateProfile(id);
     }
 }

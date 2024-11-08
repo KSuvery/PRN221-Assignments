@@ -14,10 +14,10 @@ namespace Candidate_Repository
 
         public List<CandidateProfile> GetCandidateProfiles() => CandidateProfileDAO.Instance.GetCandidateProfiles();
 
-        public Boolean AddCandidateProfile(CandidateProfile profile) => CandidateProfileDAO.Instance.AddCandidateProfile(profile);
+        public void AddCandidateProfile(CandidateProfile profile) => CandidateProfileDAO.Instance.AddCandidateProfile(profile);
 
-        public Boolean UpdateCandidateProfile(CandidateProfile profile) => CandidateProfileDAO.Instance.UpdateCandidateProfile(profile);
+        public void UpdateCandidateProfile(CandidateProfile profile) => CandidateProfileDAO.Instance.UpdateCandidateProfile(profile);
 
-        public Boolean DeleteCandidateProfile(CandidateProfile profile) => CandidateProfileDAO.Instance.DeleteCandidateProfile(profile);
+        public void DeleteCandidateProfile(string id) => CandidateProfileDAO.Instance.DeleteCandidateProfile(id);
     }
 }

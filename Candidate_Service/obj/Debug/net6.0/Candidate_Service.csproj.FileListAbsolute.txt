@@ -39,3 +39,6 @@ E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Servi
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Service\obj\Debug\net6.0\Candidate_Service.pdb
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Service\obj\Debug\net6.0\ref\Candidate_Service.dll
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Service\obj\Debug\net6.0\Candidate_Service.sourcelink.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Service\bin\Debug\net6.0\CandidateProfile.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Service\bin\Debug\net6.0\HRAccount.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\Candidate_Service\bin\Debug\net6.0\JobPosting.json

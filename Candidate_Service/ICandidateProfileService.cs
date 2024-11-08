@@ -13,10 +13,10 @@ namespace Candidate_Service
 
         public List<CandidateProfile> GetCandidateProfiles();
 
-        public Boolean AddCandidateProfile(CandidateProfile profile);
+        public void AddCandidateProfile(CandidateProfile profile);
 
-        public Boolean UpdateCandidateProfile(CandidateProfile profile);
+        public void UpdateCandidateProfile(CandidateProfile profile);
 
-        public Boolean DeleteCandidateProfile(CandidateProfile profile);
+        public void DeleteCandidateProfile(string id);
     }
 }

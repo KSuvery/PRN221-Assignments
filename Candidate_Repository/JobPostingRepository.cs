@@ -14,13 +14,11 @@ namespace Candidate_Repository
 
         public List<JobPosting> GetJobPostings() => JobPostingDAO.Instance.GetJobPostings();
 
-        public List<string> GetPostingIds() => JobPostingDAO.Instance.GetPostingIds();
-
         public void AddJobPosting(JobPosting jobPosting) => JobPostingDAO.Instance.AddJobPosting(jobPosting);
 
         public void UpdateJobPosting(JobPosting jobPosting) => JobPostingDAO.Instance.UpdateJobPosting(jobPosting);
 
-        public void RemoveJobPosting(JobPosting jobPosting) => JobPostingDAO.Instance.RemoveJobPosting(jobPosting);
+        public void RemoveJobPosting(string id) => JobPostingDAO.Instance.RemoveJobPosting(id);
 
     }
 }

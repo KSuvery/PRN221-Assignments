@@ -50,7 +50,7 @@ namespace CandidateManagementWebsite.Pages.JobPostingPages
 
             if (jobposting != null)
             {
-                jobPostingService.RemoveJobPosting(jobposting);
+                jobPostingService.RemoveJobPosting(id);
             }
 
             return RedirectToPage("./Index");

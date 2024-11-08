@@ -13,12 +13,10 @@ namespace Candidate_Repository
 
         public List<JobPosting> GetJobPostings();
 
-        public List<string> GetPostingIds();
-
         public void AddJobPosting(JobPosting jobPosting);
 
         public void UpdateJobPosting(JobPosting jobPosting);
 
-        public void RemoveJobPosting(JobPosting jobPosting);
+        public void RemoveJobPosting(string id);
     }
 }

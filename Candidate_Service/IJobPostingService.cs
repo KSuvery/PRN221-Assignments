@@ -17,6 +17,6 @@ namespace Candidate_Service
 
         public void UpdateJobPosting(JobPosting jobPosting);
 
-        public void RemoveJobPosting(JobPosting jobPosting);
+        public void RemoveJobPosting(string id);
     }
 }

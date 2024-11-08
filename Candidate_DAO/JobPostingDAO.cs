@@ -4,18 +4,19 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Candidate_DAO
 {
     public class JobPostingDAO
     {
-        private CandidateManagementContext context;
         private static JobPostingDAO instance;
+        private List<JobPosting> jobPostings;
 
         public JobPostingDAO()
         {
-            context = new CandidateManagementContext();
+            jobPostings = GetJobPostings();
         }
 
         public static JobPostingDAO Instance
@@ -29,49 +30,51 @@ namespace Candidate_DAO
                 return instance;
             }
         }
-        
-        public JobPosting GetJobPostingById(string id)
-        {
-            return context.JobPostings.SingleOrDefault(x => x.PostingId.Equals(id));
-        }
 
         public List<JobPosting> GetJobPostings()
         {
-            return context.JobPostings.ToList();
+            string strData = File.ReadAllText("JobPosting.json");
+            var options = new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true,
+            };
+            List<JobPosting> jobPostings = JsonSerializer.Deserialize<List<JobPosting>>(strData, options);
+
+            return jobPostings;
         }
 
-        public List<string> GetPostingIds()
+        public JobPosting GetJobPostingById(string id)
         {
-            List<JobPosting> jobPostings = context.JobPostings.ToList();
-
-            List<string> formattedIds = new List<string>();
-
-            foreach (var jobPosting in jobPostings)
-            {
-                formattedIds.Add($"{jobPosting.PostingId} ({jobPosting.JobPostingTitle})");
-            }
-
-            return formattedIds;
+            return jobPostings.SingleOrDefault(x => x.PostingId.Equals(id));
         }
 
         public void AddJobPosting(JobPosting jobPosting)
         {
-            context.JobPostings.Add(jobPosting);
-            context.SaveChanges();
-        }
-            
-        public void UpdateJobPosting(JobPosting jobPosting)
-        {
-            context.ChangeTracker.Clear();
-            context.JobPostings.Update(jobPosting);
-            context.SaveChanges();
+            jobPostings.Add(jobPosting);
+            string strData = JsonSerializer.Serialize(jobPostings);
+            File.WriteAllText("JobPosting.json", strData);
         }
 
-        public void RemoveJobPosting(JobPosting jobPosting)
+        public void UpdateJobPosting(JobPosting jobPosting)
         {
-            context.ChangeTracker.Clear();
-            context.JobPostings.Remove(jobPosting);
-            context.SaveChanges();
+            for (int i = 0; i < jobPostings.Count; i++)
+            {
+                if (jobPostings[i].PostingId == jobPosting.PostingId)
+                {
+                    jobPostings[i].JobPostingTitle = jobPosting.JobPostingTitle;
+                    jobPostings[i].Description = jobPosting.Description;
+                    jobPostings[i].PostedDate = jobPosting.PostedDate;
+                }
+            }
+            string strData = JsonSerializer.Serialize(jobPostings);
+            File.WriteAllText("JobPosting.json", strData);
+        }
+
+        public void RemoveJobPosting(string id)
+        {
+            jobPostings.Remove(GetJobPostingById(id));
+            string strData = JsonSerializer.Serialize(jobPostings);
+            File.WriteAllText("JobPosting.json", strData);
         }
     }
 }

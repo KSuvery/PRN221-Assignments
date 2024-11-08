@@ -27,11 +27,6 @@ namespace Candidate_Service
             return jobPostingRepository.GetJobPostings();
         }
 
-        public List<string> GetPostingIds()
-        {
-            return jobPostingRepository.GetPostingIds();
-        }
-
         public void AddJobPosting(JobPosting jobPosting)
         {
             jobPostingRepository.AddJobPosting(jobPosting);
@@ -42,9 +37,9 @@ namespace Candidate_Service
             jobPostingRepository.UpdateJobPosting(jobPosting);
         }
 
-        public void RemoveJobPosting(JobPosting jobPosting)
+        public void RemoveJobPosting(string id)
         {
-            jobPostingRepository.RemoveJobPosting(jobPosting);
+            jobPostingRepository.RemoveJobPosting(id);
         }
     }
 }

@@ -292,3 +292,6 @@ E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManage
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementWebsite\obj\Debug\net6.0\CandidateManagementRazorPages.pdb
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementWebsite\obj\Debug\net6.0\CandidateManagementRazorPages.genruntimeconfig.cache
 E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementWebsite\obj\Debug\net6.0\ref\CandidateManagementRazorPages.dll
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementWebsite\bin\Debug\net6.0\CandidateProfile.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementWebsite\bin\Debug\net6.0\HRAccount.json
+E:\FPT Courses\.NET Projects\PRN221PE_FA22_TrialTest_LeKienLuong\CandidateManagementWebsite\bin\Debug\net6.0\JobPosting.json
